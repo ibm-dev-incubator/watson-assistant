@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name project_footprints)(type KiCad)(uri "$(KIPRJMOD)/project_footprints.pretty")(options "")(descr ""))
+  (lib (name crumps)(type Github)(uri https://github.com/tylercrumpton/CrumpPrints.pretty)(options "")(descr ""))
+  (lib (name adafruit)(type Eagle)(uri /home/computertreker/watson-assistant/adafruit/adafruit.lbr)(options "")(descr ""))
+)
