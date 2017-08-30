@@ -1,4 +1,4 @@
-update=Mon 14 Aug 2017 02:35:34 PM EDT
+update=Tue 15 Aug 2017 03:53:13 PM EDT
 version=1
 last_client=kicad
 [pcbnew]
@@ -59,3 +59,13 @@ LibName29=valves
 LibName30=project_components/raspberrypi_hat
 [general]
 version=1
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60
